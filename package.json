@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/lewismoten/node-commit-hooks/issues"
   },
-  "homepage": "https://github.com/lewismoten/node-commit-hooks#readme"
+  "homepage": "https://github.com/lewismoten/node-commit-hooks#readme",
+  "devDependencies": {
+    "husky": "^2.2.0"
+  }
 }
