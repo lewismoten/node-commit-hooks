@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/lewismoten/node-commit-hooks#readme",
   "devDependencies": {
+    "@commitlint/cli": "^7.6.1",
     "husky": "^2.2.0"
   }
 }
