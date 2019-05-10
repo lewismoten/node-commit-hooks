@@ -1,0 +1,19 @@
+{
+  "name": "commit-hooks",
+  "version": "1.0.0",
+  "description": "node-commit-hooks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lewismoten/node-commit-hooks.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lewismoten/node-commit-hooks/issues"
+  },
+  "homepage": "https://github.com/lewismoten/node-commit-hooks#readme"
+}
