@@ -1,3 +1,5 @@
+![node-commit-hooks: Husky and commitlint example](docs/images/social-preview.png)
+
 # node-commit-hooks
 
 A minimal example of enforcing commit message conventions in a Node project, using [husky](https://github.com/typicode/husky) git hooks and [commitlint](https://commitlint.js.org/) with the conventional commits config.
